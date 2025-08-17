@@ -33,9 +33,7 @@ Analisis dilakukan menggunakan **AI (IBM Granite Model)** untuk klasifikasi skil
 - **Klaster semantik** menunjukkan pola interdisipliner dengan subklaster khusus (e-commerce, CRM, Ads, IT, data analysis).  
 
 ## 🛠️ Teknologi
-- Python (pandas, numpy, nltk, scikit-learn, networkx, matplotlib)  
+- Python (pandas, numpy, nltk, tqdm, openpxyl)  
 - IBM Granite Model (skill classification)  
 - Gephi (semantic network analysis & visualization)  
 - Google Colab  
-
-## 📂 Struktur Repository
